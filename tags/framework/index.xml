@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>quantum | Filip Mazurek</title>
-    <link>http://www.github.io.filipmazurek/tags/quantum/</link>
-      <atom:link href="http://www.github.io.filipmazurek/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
-    <description>quantum</description>
+    <title>framework | Filip Mazurek</title>
+    <link>http://www.github.io.filipmazurek/tags/framework/</link>
+      <atom:link href="http://www.github.io.filipmazurek/tags/framework/index.xml" rel="self" type="application/rss+xml" />
+    <description>framework</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.github.io.filipmazurek/img/icon-192.png</url>
-      <title>quantum</title>
-      <link>http://www.github.io.filipmazurek/tags/quantum/</link>
+      <title>framework</title>
+      <link>http://www.github.io.filipmazurek/tags/framework/</link>
     </image>
     
     <item>

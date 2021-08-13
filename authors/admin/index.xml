@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filip Mazurek</title>
-    <link>https://filipmazurek.github.io/authors/admin/</link>
-      <atom:link href="https://filipmazurek.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.github.io.filipmazurek/authors/admin/</link>
+      <atom:link href="http://www.github.io.filipmazurek/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Filip Mazurek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
     <image>
-      <url>https://filipmazurek.github.io/img/icon-192.png</url>
+      <url>http://www.github.io.filipmazurek/img/icon-192.png</url>
       <title>Filip Mazurek</title>
-      <link>https://filipmazurek.github.io/authors/admin/</link>
+      <link>http://www.github.io.filipmazurek/authors/admin/</link>
     </image>
     
   </channel>
