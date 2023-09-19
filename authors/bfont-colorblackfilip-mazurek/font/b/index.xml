@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;b&gt;&lt;font color=&#34;black&#34;&gt;Filip Mazurek&lt;/font&gt;&lt;/b&gt; | Filip Mazurek</title>
+    <link>http://www.github.io.filipmazurek/authors/bfont-colorblackfilip-mazurek/font/b/</link>
+      <atom:link href="http://www.github.io.filipmazurek/authors/bfont-colorblackfilip-mazurek/font/b/index.xml" rel="self" type="application/rss+xml" />
+    <description>&lt;b&gt;&lt;font color=&#34;black&#34;&gt;Filip Mazurek&lt;/font&gt;&lt;/b&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.github.io.filipmazurek/img/icon-192.png</url>
+      <title>&lt;b&gt;&lt;font color=&#34;black&#34;&gt;Filip Mazurek&lt;/font&gt;&lt;/b&gt;</title>
+      <link>http://www.github.io.filipmazurek/authors/bfont-colorblackfilip-mazurek/font/b/</link>
+    </image>
+    
+    <item>
+      <title>Rigorous Evaluation of Computer Processors with Statistical Model Checking</title>
+      <link>http://www.github.io.filipmazurek/publication/smc-for-architects/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/publication/smc-for-architects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Architecture for Classical Simulation of Quantum Circuits</title>
+      <link>http://www.github.io.filipmazurek/publication/dax-abstract/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/publication/dax-abstract/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

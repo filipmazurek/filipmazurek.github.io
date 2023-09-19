@@ -5,36 +5,12 @@
     <link>http://www.github.io.filipmazurek/tags/</link>
       <atom:link href="http://www.github.io.filipmazurek/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.github.io.filipmazurek/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://www.github.io.filipmazurek/tags/</link>
     </image>
-    
-    <item>
-      <title>framework</title>
-      <link>http://www.github.io.filipmazurek/tags/framework/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.github.io.filipmazurek/tags/framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quantum</title>
-      <link>http://www.github.io.filipmazurek/tags/quantum/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.github.io.filipmazurek/tags/quantum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software</title>
-      <link>http://www.github.io.filipmazurek/tags/software/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.github.io.filipmazurek/tags/software/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

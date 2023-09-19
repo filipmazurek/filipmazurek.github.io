@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth R. Brown | Filip Mazurek</title>
+    <link>http://www.github.io.filipmazurek/authors/kenneth-r.-brown/</link>
+      <atom:link href="http://www.github.io.filipmazurek/authors/kenneth-r.-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenneth R. Brown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.github.io.filipmazurek/img/icon-192.png</url>
+      <title>Kenneth R. Brown</title>
+      <link>http://www.github.io.filipmazurek/authors/kenneth-r.-brown/</link>
+    </image>
+    
+    <item>
+      <title>Modular Architecture for Classical Simulation of Quantum Circuits</title>
+      <link>http://www.github.io.filipmazurek/publication/dax-abstract/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/publication/dax-abstract/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

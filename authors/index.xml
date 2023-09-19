@@ -5,7 +5,7 @@
     <link>http://www.github.io.filipmazurek/authors/</link>
       <atom:link href="http://www.github.io.filipmazurek/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.github.io.filipmazurek/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,12 +13,92 @@
     </image>
     
     <item>
+      <title>&lt;b&gt;&lt;font color=&#34;black&#34;&gt;Filip Mazurek&lt;/font&gt;&lt;/b&gt;</title>
+      <link>http://www.github.io.filipmazurek/authors/bfont-colorblackfilip-mazurek/font/b/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/bfont-colorblackfilip-mazurek/font/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arya Tschand</title>
+      <link>http://www.github.io.filipmazurek/authors/arya-tschand/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/arya-tschand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel J. Sorin</title>
+      <link>http://www.github.io.filipmazurek/authors/daniel-j.-sorin/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/daniel-j.-sorin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miroslav Pajic</title>
+      <link>http://www.github.io.filipmazurek/authors/miroslav-pajic/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/miroslav-pajic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Wang</title>
+      <link>http://www.github.io.filipmazurek/authors/yu-wang/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/yu-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aniket S. Dalvi</title>
+      <link>http://www.github.io.filipmazurek/authors/aniket-s.-dalvi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/aniket-s.-dalvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Whitlow</title>
+      <link>http://www.github.io.filipmazurek/authors/jacob-whitlow/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/jacob-whitlow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenneth R. Brown</title>
+      <link>http://www.github.io.filipmazurek/authors/kenneth-r.-brown/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/kenneth-r.-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leon Riesebos</title>
+      <link>http://www.github.io.filipmazurek/authors/leon-riesebos/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/leon-riesebos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swarnadeep Majumder</title>
+      <link>http://www.github.io.filipmazurek/authors/swarnadeep-majumder/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.github.io.filipmazurek/authors/swarnadeep-majumder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://www.github.io.filipmazurek/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://www.github.io.filipmazurek/authors/admin/</guid>
-      <description>&lt;p&gt;I am a third-year graduate student in Electrical and Computer Engineering at &lt;a href=&#34;https://www.https://ece.duke.edu/.edu/&#34;&gt;Duke University&lt;/a&gt; advised by &lt;a href=&#34;https://ece.duke.edu/faculty/kenneth-brown&#34;&gt;Professor Ken Brown&lt;/a&gt;. My broad area of research is Quanutm Computing, and my main focus is working on support software for ion trap quantum computers. I am busy contributing to &lt;a href=&#34;https://gitlab.com/duke-artiq/dax&#34;&gt;Duke ARTIQ Extensions&lt;/a&gt; (DAX), an open-source project from Duke University focused on adding traditional software abstractions on top of &lt;a href=&#34;https://m-labs.hk/experiment-control/artiq/&#34;&gt;ARTIQ&lt;/a&gt;, a leading control system for quantum information experiments. The goal of the project is to provide a framework that enables the development of modular and transparently layered software for quantum control systems.&lt;/p&gt;
-&lt;p&gt;I aim to expand DAX further, such as by adding realistic simulation of errors characterized by our actual quantum systems at Duke University. There already exist plans for a middle-level language called DAX.program that sits between higher-level languages such as Qiskit and DAX. My other research interests include strategies for compilation from higher-level languages such as Qiskit to DAX.program as well as optimization strategies for compiling DAX.program to DAX and ARTIQ, and the corresponding system pulses that come with it.&lt;/p&gt;
+      <description>&lt;p&gt;I am a fourth-year graduate student in Electrical and Computer Engineering at &lt;a href=&#34;https://ece.duke.edu/&#34;&gt;Duke University&lt;/a&gt; advised by &lt;a href=&#34;https://ece.duke.edu/faculty/kenneth-brown&#34;&gt;Professor Ken Brown&lt;/a&gt;. My research focuses on extracting the most performance possible from current-generation quantum computers. Additionally, I am passionate about the startup space and am working to build the technical side of Avenu, a company focused on creating a better ticketing experience for nightlife goers, promoters, and vendors.&lt;/p&gt;
+&lt;p&gt;Find my resume &lt;a href=&#34;files/mazurek-resume-focused.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
